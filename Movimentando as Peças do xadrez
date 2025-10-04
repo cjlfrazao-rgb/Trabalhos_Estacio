@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-// Programa: Movimentação de peças de xadrez
+// Movimentação peças xadrez
 // Peças: Torre, Bispo e Rainha
-// Objetivo: Demonstrar uso das estruturas de repetição (for, while, do-while)
 
 int main() {
 
